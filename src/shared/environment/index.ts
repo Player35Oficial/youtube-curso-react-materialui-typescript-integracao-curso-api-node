@@ -15,5 +15,5 @@ export const Environment = {
   /**
    * Url base de consultado dos dados dessa aplicação
    */
-  URL_BASE: 'https://curso-yt-api-rest-node-typescript.vercel.app',
+  URL_BASE: 'https://youtube-curso-react-materialui-typescript-integ-player35oficial.vercel.app',
 };
